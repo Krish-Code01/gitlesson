@@ -11,7 +11,9 @@ export default function Home() {
           width={100}
           height={20}
           priority
+
         />
+        //this is the change by Anubhav
         // I am teaching git and github here to my juniors in reel remote branch
         and now i will teach github methods like pull, push, commit etc
         <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
